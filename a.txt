@@ -3,3 +3,5 @@ git add a.txt
 git commit -m "init"
 git push origin
 git status(cha kan gong zuo shu zhuangtai)
+zhe shi yi ge quan xin de hang
+wo jia le liang hang 2
