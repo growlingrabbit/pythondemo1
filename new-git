@@ -1,0 +1,16 @@
+#1
+mkdir datas
+git init
+first update
+git pull origin master
+git status -s
+git add text
+git status -s
+git commit -m "something explain"
+git push origin
+git push https://fishduoishgiosgosigjugisjoighsoghsnaghbalabala
+
+
+#2
+git clone origin
+git clone https://sdfsduihfsuidfhsf
