@@ -8,7 +8,7 @@ git add text
 git status -s
 git commit -m "something explain"
 git push origin
-git push https://fishduoishgiosgosigjugisjoighsoghsnaghbalabala
+git push https://fishduoishgiosgosigjugisjoighsoghsnaghbalabala master
 
 
 #2
