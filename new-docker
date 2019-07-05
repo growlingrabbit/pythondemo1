@@ -1,0 +1,15 @@
+#1
+docker pull python:3
+docker run -it --name mypy python:3 /bin/bash
+some thing done
+exit
+docker commit -m "something " id(not images id) username/images:tag
+docker login
+docker push username/images:tag
+
+go to next computer
+docker login
+docker pull username/images:tag
+
+#2
+docker file
